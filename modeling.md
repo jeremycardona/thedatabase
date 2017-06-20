@@ -17,13 +17,13 @@ for example lets say we want to represent a table that contains information of b
 Beer(id, name, brewery, adv, style)
 
 
-# Tuples
+### Tuples
 a tuple is a single component for each attribute of a relation
 example with beers:
 (1, 'Medalla', 'Brewery of Puerto Rico', 4.0, 'light')
 
 
-# Keys
+### Keys
 we want to have an attribute or attributes such that they for a key, which is a way of identifying a tuple
 lets say for example we have a relation with a lot of values, we want to have a way of getting a single tuple:
 for example:
