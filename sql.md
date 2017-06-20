@@ -25,6 +25,15 @@ WHERE adv > 5;
 
 ### modifications
 modifications allows us to insert, update and delete from tables
-*insert*: INSERT INTO table_name (column1, column2, column3, ...) VALUES (value1, value2, value3, ...); 
-*update*: UPDATE table_name SET column1 = value1, column2 = value2, ... WHERE condition;
-*delete*: DELETE FROM table_name WHERE condition;
+*insert*: 
+```
+INSERT INTO table_name (column1, column2, column3, ...) VALUES (value1, value2, value3, ...); 
+```
+*update*: 
+```
+UPDATE table_name SET column1 = value1, column2 = value2, ... WHERE condition;
+```
+*delete*: 
+```
+DELETE FROM table_name WHERE condition;
+```
