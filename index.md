@@ -35,7 +35,6 @@ so we are focusing on:
 1. operations
 2. projection
 3. selection
-4. joins
 
 ### [relational design](https://jeremycardona.github.io/thedatabase/design)
 1. functional dependencies
@@ -46,5 +45,4 @@ so we are focusing on:
 1. tables
 2. queries
 3. modifications
-4. constraints
 
